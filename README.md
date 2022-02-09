@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Grahamlikeshub
+- 👀 I’m interested in making cites and gaming
+- 🌱 I’m currently learning how to make a quality cite with python
+- 📫 How to reach me graham.mcdonald@gesu.com
